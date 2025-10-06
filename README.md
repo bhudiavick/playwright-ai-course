@@ -1,1 +1,0 @@
-# Playwright AI Course
